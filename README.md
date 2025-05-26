@@ -26,35 +26,35 @@ Titanic data analysis involves predicting passenger survival based on features l
 
 # Insights
 
-• Define the Problem: Understand the objective and what you're trying to solve.
+• Define the Problem : Understand the objective and what you're trying to solve.
 
-• Collect Data: Gather data from relevant sources (e.g., databases, surveys).
+• Collect Data :---- Gather data from relevant sources (e.g., databases, surveys).
 
-• Data Cleaning: Handle missing values, outliers, and correct errors in the data.
+• Data Cleaning :---- Handle missing values, outliers, and correct errors in the data.
 
-• Explore Data: Perform exploratory data analysis (EDA) to understand patterns and relationships.
+• Explore Data : ----Perform exploratory data analysis (EDA) to understand patterns and relationships.
 
-• Feature Engineering: Create new features or modify existing ones to improve model performance.
+• Feature Engineering :---- Create new features or modify existing ones to improve model performance.
 
-• Data Visualization: Visualize data through graphs and charts to gain insights.
+• Data Visualization :---- Visualize data through graphs and charts to gain insights.
 
-• Modeling: Select and apply appropriate machine learning algorithms or statistical models.
+• Modeling :---- Select and apply appropriate machine learning algorithms or statistical models.
 
-• Evaluate Models: Assess model performance using evaluation metrics (e.g., accuracy, precision).
+• Evaluate Models: ----Assess model performance using evaluation metrics (e.g., accuracy, precision).
 
-• Interpret Results: Draw conclusions and make recommendations based on analysis.
+• Interpret Results : ----Draw conclusions and make recommendations based on analysis.
 
-1.	Survival Rates by Gender. Women had a significantly higher survival rate than men, with females having a better chance of survival.
+1.	Survival Rates by Gender:--Women had a significantly higher survival rate than men, with females having a better chance of survival.
    
-2.	Survival Rates by Class:  Passengers in first class had the highest survival rates, followed by second and third-class passengers.
+2.	Survival Rates by Class:--Passengers in first class had the highest survival rates, followed by second and third-class passengers.
 	
-3.	Age Impact:  Children (younger passengers) had a higher survival rate compared to adults, especially in first class.
+3.	Age Impact:--Children (younger passengers) had a higher survival rate compared to adults, especially in first class.
 	
-4.	Embarked Location:  Passengers who boarded the Titanic at Southampton (S) had lower survival rates compared to those from Cherbourg (C) or Queenstown (Q).
+4.	Embarked Location:--Passengers who boarded the Titanic at Southampton (S) had lower survival rates compared to those from Cherbourg (C) or Queenstown (Q).
 	
-5.	Pclass vs. Fare:  Passengers in first class paid significantly higher fares, and their survival rates were also higher, reflecting better access to lifeboats and resources.
+5.	Pclass vs. Fare:--Passengers in first class paid significantly higher fares, and their survival rates were also higher, reflecting better access to lifeboats and resources.
   
-6.	Correlations with Survival:  Variables like gender, class, and age were strong predictors of survival, with passengers in first class, women, and children more likely to survive.
+6.	Correlations with Survival:--Variables like gender, class, and age were strong predictors of survival, with passengers in first class, women, and children more likely to survive.
 
 # Deep Insights
 
